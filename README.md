@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
+This is a Personalised fantasy football league manager. Uses the sleeper API. Will try to add the Yahoo API as well.
+
+## Sleeper API
+
+https://docs.sleeper.app/
+
+## Yahoo API
+
+https://developer.yahoo.com/fantasysports/guide/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
