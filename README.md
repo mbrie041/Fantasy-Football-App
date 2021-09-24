@@ -4,6 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is a Personalised fantasy football league manager. Uses the sleeper API. Will try to add the Yahoo API as well.
 
+## Features
+
+- Display the following:
+  - Record in league
+  - Current Standing
+  - Projected points for
+  - Projected points against
+  - Value representing winning/losing Delta
+
 ## Sleeper API
 
 https://docs.sleeper.app/
