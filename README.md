@@ -7,28 +7,35 @@ This is a Personalised fantasy football league manager. Uses the sleeper API. Wi
 ## Features
 
 - Display the following:
+
   - Record in league
   - Current Standing
   - Projected points for
   - Projected points against
   - Value representing winning/losing Delta
-  - 
 
 ## Stretch Features
+
 - Player information:
-  - Projected points 
+
+  - Projected points
   - Number of Targets
   - Snap %
   - Yards per carry
   - Yards per target
   - Match up infromation (home, opponent, etc)
-  - 
 
 - Team information:
-  - Team 
+
+  - Team positional strengths and weaknesses
 
 ## Notes
+
 - Combine sleeper team info with player info as Evan described
+
+## Wireframe
+
+https://www.figma.com/file/uWm27PxtGjCDAdxfXSDcC5/Fantasy-Football-App-team-library?node-id=0%3A1
 
 ## Sleeper API
 
